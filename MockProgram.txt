@@ -1,0 +1,13 @@
+for (i = 1; i <= 5; i++)
+    Get name of input file i
+    Get name of output file i
+    
+    Open input file i, throw exception if missing
+    Open output file i, throw exception if missing
+
+    Read data from input file i
+    Get name of Chinese year
+    Write data to output file i
+
+    Close input file i
+    Close output file i

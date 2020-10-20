@@ -1,0 +1,21 @@
+*** Reading file in1.txt ***
+2020 is the year of the Rat
+*** OK ***
+
+*** Reading file in2.txt ***
+1941 is the year of the Snake
+*** OK ***
+
+*** Reading file in3.txt ***
+1970 is the year of the Dog
+*** OK ***
+
+*** Reading file in4.txt ***
+1965 is the year of the Snake
+*** OK ***
+
+*** Reading file in5.txt ***
+1975 is the year of the Rabbit
+*** OK ***
+
+Program ended with exit code: 0
